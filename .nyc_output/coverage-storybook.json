@@ -1,0 +1,252 @@
+{
+  "/home/vlad/Learn/Lessons/nextjs-storybook-coverage/src/stories/Button.tsx": {
+    "path": "/home/vlad/Learn/Lessons/nextjs-storybook-coverage/src/stories/Button.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 30,
+          "column": 0
+        },
+        "end": {
+          "line": 52,
+          "column": null
+        }
+      },
+      "1": {
+        "start": {
+          "line": 36,
+          "column": 0
+        },
+        "end": {
+          "line": 36,
+          "column": null
+        }
+      },
+      "2": {
+        "start": {
+          "line": 37,
+          "column": 0
+        },
+        "end": {
+          "line": 37,
+          "column": null
+        }
+      },
+      "3": {
+        "start": {
+          "line": 30,
+          "column": 0
+        },
+        "end": {
+          "line": 30,
+          "column": null
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 30,
+            "column": 0
+          },
+          "end": {
+            "line": 30,
+            "column": null
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 30,
+            "column": 0
+          },
+          "end": {
+            "line": 52,
+            "column": null
+          }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {
+            "line": 31,
+            "column": 0
+          },
+          "end": {
+            "line": 31,
+            "column": null
+          }
+        },
+        "type": "default-arg",
+        "locations": [
+          {
+            "start": {
+              "line": 31,
+              "column": 0
+            },
+            "end": {
+              "line": 31,
+              "column": null
+            }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": {
+            "line": 32,
+            "column": 0
+          },
+          "end": {
+            "line": 32,
+            "column": null
+          }
+        },
+        "type": "default-arg",
+        "locations": [
+          {
+            "start": {
+              "line": 32,
+              "column": 0
+            },
+            "end": {
+              "line": 32,
+              "column": null
+            }
+          }
+        ]
+      },
+      "2": {
+        "loc": {
+          "start": {
+            "line": 37,
+            "column": 0
+          },
+          "end": {
+            "line": 37,
+            "column": null
+          }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 37,
+              "column": 0
+            },
+            "end": {
+              "line": 37,
+              "column": null
+            }
+          },
+          {
+            "start": {
+              "line": 37,
+              "column": 0
+            },
+            "end": {
+              "line": 37,
+              "column": null
+            }
+          }
+        ]
+      },
+      "3": {
+        "loc": {
+          "start": {
+            "line": 42,
+            "column": 0
+          },
+          "end": {
+            "line": 41,
+            "column": null
+          }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 42,
+              "column": 0
+            },
+            "end": {
+              "line": 42,
+              "column": null
+            }
+          },
+          {
+            "start": {
+              "line": 42,
+              "column": 0
+            },
+            "end": {
+              "line": 42,
+              "column": null
+            }
+          },
+          {
+            "start": {
+              "line": 42,
+              "column": 0
+            },
+            "end": {
+              "line": 42,
+              "column": null
+            }
+          },
+          {
+            "start": {
+              "line": 41,
+              "column": 0
+            },
+            "end": {
+              "line": 41,
+              "column": null
+            }
+          },
+          {
+            "start": {
+              "line": 41,
+              "column": 0
+            },
+            "end": {
+              "line": 41,
+              "column": null
+            }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 5,
+      "1": 14,
+      "2": 14,
+      "3": 5
+    },
+    "f": {
+      "0": 14
+    },
+    "b": {
+      "0": [
+        9
+      ],
+      "1": [
+        9
+      ],
+      "2": [
+        5,
+        9
+      ],
+      "3": [
+        14,
+        14,
+        0,
+        14,
+        0
+      ]
+    }
+  }
+}
